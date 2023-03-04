@@ -21,5 +21,13 @@ O segundo argumento da função reduce() que ela pode receber é o valor inicial
 Every
 
 O método every é uma função de ordem superior no JavaScript que é usada para verificar se todos os elementos de um array satisfazem uma determinada condição. Ele retorna true se todos os elementos do array passam na condição especificada, caso contrário, retorna false.
-
 A função callback deve retornar um valor booleano, que indica se o elemento passa na condição especificada. Se a função retornar false para um elemento, o método every retornará false imediatamente e não continuará a verificar os outros elementos.
+
+Os parâmetros dessa função são: o array que está sendo verificado e uma função callback que é executada para cada elemento do array. A função callback recebe três argumentos: o valor atual do elemento, o índice do elemento e o próprio array.
+
+Some
+
+O método some é uma função de ordem superior no JavaScript que é usada para verificar se pelo menos um elemento de um array satisfaz uma determinada condição. Ele retorna true se pelo menos um dos elementos do array passa na condição especificada, caso contrário, retorna false.
+Os parâmetros dessa função são: o array que está sendo verificado e uma função callback que é executada para cada elemento do array. A função callback recebe três argumentos: o valor atual do elemento, o índice do elemento e o próprio array.
+
+A função callback deve retornar um valor booleano, que indica se o elemento passa na condição especificada. Se a função retornar true para um elemento, o método some retornará true imediatamente e não continuará a verificar os outros elementos.
