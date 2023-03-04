@@ -17,3 +17,9 @@ A função reduce() em JavaScript é uma função de ordem superior (higher-orde
 Ela pode ser usada para calcular a soma de todos os elementos de um array de números. A função de callback recebe dois argumentos: o acumulador e o elemento atual. A cada iteração, a função soma o elemento atual ao acumulador e retorna o resultado, que se torna o novo valor do acumulador na próxima iteração.
 
 O segundo argumento da função reduce() que ela pode receber é o valor inicial do acumulador.
+
+Every
+
+O método every é uma função de ordem superior no JavaScript que é usada para verificar se todos os elementos de um array satisfazem uma determinada condição. Ele retorna true se todos os elementos do array passam na condição especificada, caso contrário, retorna false.
+
+A função callback deve retornar um valor booleano, que indica se o elemento passa na condição especificada. Se a função retornar false para um elemento, o método every retornará false imediatamente e não continuará a verificar os outros elementos.
