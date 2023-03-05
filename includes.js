@@ -2,11 +2,9 @@
 // ========================================================================================
 
 // Números
-
 console.log([2, 3, 8].includes(3));
 
 // Pessoas
-
 const people = [
   { id: 10, name: 'Lara', age: 23, group: 'user' },
   { id: 14, name: 'Igor', age: 25, group: 'developer' },
@@ -14,6 +12,6 @@ const people = [
   { id: 17, name: 'Maria', age: 24, group: 'designer' },
 ];
 
-const filteredUsers = people.filter((p => p.name.includes('ar')));
+const filteredUsers = people.filter((person => person.name.includes('ar')));
 
 console.log(filteredUsers);

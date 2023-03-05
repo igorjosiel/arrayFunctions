@@ -2,7 +2,6 @@
 // ========================================================================================
 
 // Verificar se há algum número primo
-
 function isPrime(value) {
   for (let i = 2; i < value; i ++) {
     if (value % i === 0) {
@@ -18,7 +17,6 @@ const numbers = [6, 8, 11, 12, 14, 42];
 console.log(numbers.some(isPrime));
 
 // Verificar por condições em valores/objetos
-
 const team = [
   { id: 12, name: "Topper Harley", pilot: true },
   { id: 44, name: "Ranada Thompson", pilot: true },
