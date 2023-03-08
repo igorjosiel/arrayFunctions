@@ -29,7 +29,8 @@ A função callback deve retornar um valor booleano, que indica se o elemento pa
 
 Os parâmetros dessa função são: o array que está sendo verificado e uma função callback que é executada para cada elemento do array. A função callback recebe três argumentos: o valor atual do elemento, o índice do elemento e o próprio array.
 
-Some
+## Some 🏜️🏥🏦🏠⛪🏫 ➡️ 👍
+🔉Quando me perguntaram se eu estava em um desses lugares no final de semana e eu disse que sim. Eu estava em casa, programanado!
 
 O método some é uma função de ordem superior no JavaScript que é usada para verificar se pelo menos um elemento de um array satisfaz uma determinada condição. Ele retorna true se pelo menos um dos elementos do array passa na condição especificada, caso contrário, retorna false.
 Os parâmetros dessa função são: o array que está sendo verificado e uma função callback que é executada para cada elemento do array. A função callback recebe três argumentos: o valor atual do elemento, o índice do elemento e o próprio array.
@@ -43,6 +44,7 @@ Os parâmetros dessa função são o array que está sendo pesquisado e uma fun�
 
 A função callback deve retornar um valor booleano, que indica se o elemento satisfaz a condição de pesquisa. Quando o método find() encontra o primeiro elemento no array que satisfaz essa condição, ele retorna o valor do elemento. Caso contrário, ele retorna undefined.
 
-Includes 
+## Includes 🤘✊👊☝️✊🤞 ➡️ 👎
+🔉Foi pedido que eu fizesse um gesto com a minha mão, e eu não fiz nenhum desses.
 
 Em JavaScript, a função includes() é uma função de array e string que verifica se um valor especificado está presente no array ou string. Ela retorna um valor booleano (true ou false) indicando se o valor está presente ou não.
