@@ -37,7 +37,8 @@ Os parâmetros dessa função são: o array que está sendo verificado e uma fun
 
 A função callback deve retornar um valor booleano, que indica se o elemento passa na condição especificada. Se a função retornar true para um elemento, o método some retornará true imediatamente e não continuará a verificar os outros elementos.
 
-Find
+## Find 💛💚❤️💙❤️🖤💛 ➡️ 💛(1° elemento)
+🔉Procurando pelo coração amarelo no conjunto de corações, foi retornado o primeiro. Economiazinha de processamento.
 
 A função find() é um método disponível em arrays no JavaScript que é usado para encontrar o primeiro elemento em um array que satisfaz uma determinada condição. Ele retorna o valor do primeiro elemento encontrado que atende a essa condição. Caso contrário, retorna undefined.
 Os parâmetros dessa função são o array que está sendo pesquisado e uma função de callback que é executada para cada elemento do array. A função callback recebe três argumentos: o valor atual do elemento, o índice do elemento e o próprio array.
